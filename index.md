@@ -1,22 +1,36 @@
 ---
-title: Welcome to UTR SOFTWEAR
+title: Welcome to UTR SOFTWARE
 ---
-# PRODUCTS
-for Android only
 
-Baccarat Edge calculator
+# Welcome to UTR SOFTWARE
 
+## PRODUCTS
 
-Baccarat Pair Bet Calculator
-[Google Play Store](https://play.google.com/store/apps/details?id=com.fantasyx100.baccaratpointbetindicator)
- : 
-[youtube](https://youtu.be/wck2Pr5z39Y)
+以下は、Android専用の製品です。
 
-Three card poker edge calculator
+### 1. Baccarat Edge Calculator
+- **詳細:** Baccarat Edgeを計算します。
+- **リンク:** [Google Play Store](https://play.google.com/store/apps/details?id=com.fantasyx100.baccaratpointbetindicator)  
+- **動画:** [YouTube](https://youtu.be/wck2Pr5z39Y)
 
-Baccarat point bet calculator
-[Google Play Store](https://play.google.com/store/apps/details?id=com.fantasyx10000.pairbetindicator)
- : 
-[youtube](https://youtu.be/0W1gpbg0EFc)
+---
 
-3G8 and Your Way Egalite Calculator
+### 2. Baccarat Pair Bet Calculator
+- **詳細:** Pair Betを計算します。
+- **リンク:** [Google Play Store](https://play.google.com/store/apps/details?id=com.fantasyx10000.pairbetindicator)  
+- **動画:** [YouTube](https://youtu.be/0W1gpbg0EFc)
+
+---
+
+### 3. Three Card Poker Edge Calculator
+- **詳細:** Three Card Pokerのエッジを計算します。
+
+---
+
+### 4. 3G8 and Your Way Egalite Calculator
+- **詳細:** 3G8とEgaliteを計算します。
+
+---
+
+## お問い合わせ
+何か質問がある場合は、[こちらからお問い合わせください](mailto:your-email@example.com)。
