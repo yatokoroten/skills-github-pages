@@ -31,4 +31,4 @@ The following are Android-exclusive products:
 ---
 
 ## Contact Us
-If you have any questions, please [contact us here](mailto:your-email@example.com).
+If you have any questions, please [contact us here](mailto:yatokoroten@gmail.com).
