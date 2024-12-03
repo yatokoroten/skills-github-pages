@@ -5,11 +5,12 @@ title: Welcome to UTR SOFTWEAR
 for Android only
 
 Baccarat Edge calculator
+
+
+Baccarat Pair Bet Calculator
 [Google Play Store](https://play.google.com/store/apps/details?id=com.fantasyx10000.pairbetindicator)
  : 
 [youtube](https://youtu.be/0W1gpbg0EFc)
-
-Baccarat Pair Bet Calculator
 
 Three card poker edge calculator
 
