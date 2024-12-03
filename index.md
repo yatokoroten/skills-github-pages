@@ -2,8 +2,6 @@
 title: Welcome to UTR SOFTWARE
 ---
 
-# Welcome to UTR SOFTWARE
-
 ## PRODUCTS
 
 The following are Android-exclusive products:
