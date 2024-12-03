@@ -18,4 +18,5 @@ Baccarat point bet calculator
 [Google Play Store](https://play.google.com/store/apps/details?id=com.fantasyx10000.pairbetindicator)
  : 
 [youtube](https://youtu.be/0W1gpbg0EFc)
+
 3G8 and Your Way Egalite Calculator
